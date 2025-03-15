@@ -12,4 +12,4 @@
 
 ## 📫 Get in Touch
 - [Portfolio](https://yourportfolio.com)
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://uk.linkedin.com/in/shannon-grant-390736309)
+- [LinkedIn](https://uk.linkedin.com/in/shannon-grant-390736309)
