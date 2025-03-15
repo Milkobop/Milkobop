@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Shannon Grant 👋
 
-<!--
-**Milkobop/Milkobop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Junior Game Programmer
+- 🔭 Currently studying Game Design & Development at Greenwich University
+- 🌱 Learning Unity, C#, and Unreal Engine
+- 💡 Interested in gameplay programming and mechanics design
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=csharp&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
