@@ -11,5 +11,5 @@
 ![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=csharp&logoColor=white)
 
 ## 📫 Get in Touch
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://milkobop.github.io/Portfolio/index.html)
 - [LinkedIn](https://uk.linkedin.com/in/shannon-grant-390736309)
